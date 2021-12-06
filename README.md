@@ -1,5 +1,3 @@
-# HVMΛN
-
 ![HVMΛN (rectangleBlack)](https://user-images.githubusercontent.com/48869138/144935471-99de6e2d-d310-4749-99c9-7aeb8adefa2c.png)
 
 
